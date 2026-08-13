@@ -1,9 +1,9 @@
 {
-  "name":"Osteomyelitis Research Center",
-  "short_name":"Research Center",
-  "start_url":"./",
-  "display":"standalone",
-  "background_color":"#f5f5f7",
-  "theme_color":"#f5f5f7",
-  "description":"Interactive research progress, daily plan and document center."
+  "name": "Osteomyelitis Research Center",
+  "short_name": "Research Center",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#f5f5f7",
+  "description": "Interactive research progress, daily plan and document center."
 }
