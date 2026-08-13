@@ -1,1 +1,9 @@
-{"name":"Osteomyelitis Clinical Research Center","short_name":"Clinical Research","start_url":"./","display":"standalone","background_color":"#f4f8fa","theme_color":"#103b4a","description":"Professional clinical research dashboard for the osteomyelitis study."}
+{
+  "name":"Osteomyelitis Research Command Center",
+  "short_name":"Research Center",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f5f7fa",
+  "theme_color":"#0a84ff",
+  "description":"Modern Apple-inspired research dashboard with analytics, calendars, approvals, documents and local PDF preview."
+}
